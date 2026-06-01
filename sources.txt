@@ -1,0 +1,15 @@
+https://techcrunch.com/category/artificial-intelligence/feed/
+
+https://venturebeat.com/category/ai/feed/
+
+https://feeds.arstechnica.com/arstechnica/technology-lab
+
+https://www.infoq.com/feed/
+
+https://huggingface.co/blog/feed.xml
+
+https://blogs.nvidia.com/feed/
+
+https://www.kdnuggets.com/feed
+
+https://www.datacamp.com/blog/rss.xml
