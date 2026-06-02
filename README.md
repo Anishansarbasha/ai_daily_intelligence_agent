@@ -77,22 +77,22 @@ RSS Sources → News Collection → Duplicate Removal → Trend Analysis → Int
 
 ## Key Features
 
-✅ Automated News Collection
+ Automated News Collection
 
-✅ Trend Analysis
+ Trend Analysis
 
-✅ Duplicate Removal
+ Duplicate Removal
 
-✅ Daily Email Reports
+ Daily Email Reports
 
-✅ Cloud-Based Automation
+ Cloud-Based Automation
 
-✅ Runs Even When Laptop Is Off
+ Runs Even When Laptop Is Off
 
 ---
 
 ## Author
 
-**Anish Ansarbasha**
+**Anishfathima A**
 
 *InsightPulse AI is an original project idea developed to automate daily technology intelligence gathering and delivery.*
